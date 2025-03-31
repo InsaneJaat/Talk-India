@@ -1,8 +1,8 @@
 {
     "interval": 30000,
     "status": {
-      "type": "->",
-      "state": "Playing with your mom",
+      "type": "Playing",
+      "state": "with your mom",
       "backup_state": "with {userCount} users",
       "url": "https://twitch.tv/lanya"
     }
