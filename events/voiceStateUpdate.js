@@ -30,7 +30,7 @@ module.exports = {
                 if (textChannel) {
                     textChannel.send('👋 Left the voice channel due to inactivity (3 minutes with no listeners)');
                 }
-            }, 280000); 
+            }, 180000); 
         } else if (player.inactivityTimeout) {
             
             clearTimeout(player.inactivityTimeout);
